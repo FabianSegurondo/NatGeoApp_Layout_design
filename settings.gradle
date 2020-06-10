@@ -1,0 +1,2 @@
+rootProject.name='NatGeo_Layout_design'
+include ':app'
